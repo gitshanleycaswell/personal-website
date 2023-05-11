@@ -1,1 +1,1 @@
-Welcome to my very first website. This will probably look like a second grader made it on microsoft paint, at least for a while. But as I get better I think that it will look more and more professional. Hopefully. 
+this is my README! 
